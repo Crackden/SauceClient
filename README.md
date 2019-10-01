@@ -1,1 +1,1 @@
-[![Generic badge](https://img.shields.io/badge/Java-1.14.4-green.svg)](https://minecraft.gamepedia.com/Java_Edition_1.14.4)
+https://img.shields.io/badge/Version-1.8.9-red
